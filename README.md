@@ -28,16 +28,16 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 ### Conheça as nossas redes sociais:
 
-<img src="meetup_logo.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
+<img src="logo_meetup.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
 
-<img src="youtube4.png" width="35" height="35" /> [YouTube RLadies Ribeirão Preto](https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA/about)
+<img src="logo_youtube.png" width="35" height="35" /> [YouTube RLadies Ribeirão Preto](https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA/about)
 
-<img src="GitHub.png" width="50" height="50" /> [github.com/rladiesrp](https://github.com/rladiesrp)
+<img src="logo_github.png" width="50" height="50" /> [github.com/rladiesrp](https://github.com/rladiesrp)
 
-<img src="facebook.png" width="50" height="50" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
+<img src="logo_facebook.png" width="50" height="50" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
 
-<img src="instagram4.png" width="40" height="40" /> [@rladiesrp](https://www.instagram.com/rladiesrp/)
+<img src="logo_instagram.png" width="40" height="40" /> [@rladiesrp](https://www.instagram.com/rladiesrp/)
 
-<img src="logo.png" width="40" height="35" /> [@rladiesrp](https://twitter.com/rladiesrp)
+<img src="logo_twitter.png" width="40" height="35" /> [@rladiesrp](https://twitter.com/rladiesrp)
 
-<img src="email.png" width="40" height="40" /> [ribeirao-preto@rladies.org](mailto:ribeirao-preto@rladies.org)
+<img src="logo_email.png" width="40" height="40" /> [ribeirao-preto@rladies.org](mailto:ribeirao-preto@rladies.org)
