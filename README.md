@@ -10,7 +10,7 @@ Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização
 
 ## Missão
 
-Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para formarmos uma comunidade mais inclusiva e diversa 
+Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para formarmos uma comunidade mais inclusiva e diversa. 
 
 <img src="rladies_gender.jpg">
 
@@ -32,7 +32,7 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 <img src="logo_youtube.png" width="35" height="35" /> [YouTube RLadies Ribeirão Preto](https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA/about)
 
-<img src="logo_github.png" width="50" height="50" /> [github.com/rladiesrp](https://github.com/rladiesrp)
+<img src="logo_github.png" width="50" height="50" /> [@rladiesrp](https://github.com/rladiesrp)
 
 <img src="logo_facebook.png" width="50" height="50" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
 
