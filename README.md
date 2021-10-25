@@ -6,7 +6,7 @@ Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização
 
 ### Quem somos?
 
-<img src="Slide2.png" width="650" height="500"/> 
+<img src="rladiesrp_quem_somos.png"> 
 
 ### Missão
 
