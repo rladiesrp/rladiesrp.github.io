@@ -4,29 +4,29 @@ Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização
 
 <img src="rladies_dashboard4.png">
 
-### Quem somos?
+## Quem somos?
 
 <img src="rladiesrp_quem_somos.png"> 
 
-### Missão
+## Missão
 
 Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para formarmos uma comunidade mais inclusiva e diversa 
 
 <img src="rladies_gender.jpg">
 
-### Estrutura
+## Estrutura
 
 <img src="rladies_structure_portuguese.png">
 
-### Como participar?
+## Como participar?
 
 <img src="rladies_help_portuguese.png">
 
-### [Código de conduta](https://guide.rladies.org/about/coc/#portuguese)
+## [Código de conduta](https://guide.rladies.org/about/coc/#portuguese)
 
 <img src="rladies_codigo_conduta.png">
 
-### Conheça as nossas redes sociais:
+## Conheça as nossas redes sociais:
 
 <img src="logo_meetup.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
 
