@@ -28,7 +28,7 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 ### Conheça as nossas redes sociais:
 
-<img src="meetup2.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
+<img src="meetup_logo.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
 
 <img src="youtube4.png" width="35" height="35" /> [YouTube RLadies Ribeirão Preto](https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA/about)
 
