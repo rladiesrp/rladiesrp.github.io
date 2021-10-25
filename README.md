@@ -36,7 +36,7 @@ Acesse o nosso código de conduta na página das [RLadies Global](https://guide.
 
 <img src="logo_youtube.png" width="35" height="35" /> [YouTube RLadies Ribeirão Preto](https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA/about)
 
-<img src="logo_github.png" width="50" height="50" /> [@rladiesrp](https://github.com/rladiesrp)
+<img src="logo_github.png" width="40" height="40" /> [@rladiesrp](https://github.com/rladiesrp)
 
 <img src="logo_facebook2.png" width="40" height="40" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
 
