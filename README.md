@@ -12,7 +12,7 @@ Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização
 
 Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para formarmos uma comunidade mais inclusiva e diversa 
 
-<img src="GEnder.jpg" width="550" height="300"/>
+<img src="rladiesrp_gender.jpg">
 
 ### Estrutura
 
