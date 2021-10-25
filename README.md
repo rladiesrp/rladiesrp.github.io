@@ -20,7 +20,7 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 ### Como participar?
 
-<img src="rladies-help_v3.png" width="700" height="450"//>
+<img src="rladies_help_portuguese.png">
 
 ### [Código de conduta](https://guide.rladies.org/about/coc/#portuguese)
 
