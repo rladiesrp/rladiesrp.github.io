@@ -2,7 +2,7 @@
 
 Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização sem fins lucrativos que atua em diversos países. Nós nos encontramos [virtualmente] para aprender sobre a linguagem R.
 
-<img src="rladies_logo.png" width="600" height="600"/>
+<img src="rladies_dashboard4.png" width="600" height="600"/>
 
 ### Quem somos?
 
