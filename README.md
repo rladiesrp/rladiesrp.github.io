@@ -16,6 +16,8 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 ## Estrutura
 
+Entenda a estrutura das RLadies: 
+
 <img src="rladies_structure_portuguese.png">
 
 ## Como participar?
