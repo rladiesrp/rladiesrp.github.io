@@ -24,7 +24,7 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 ### [Código de conduta](https://guide.rladies.org/about/coc/#portuguese)
 
-<img src="rladies_conduct.png" width="500" height="500"/>
+<img src="rladies_codigo_conduta.png">
 
 ### Conheça as nossas redes sociais:
 
