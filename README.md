@@ -20,9 +20,13 @@ Promover o uso da linguagem R entre as minorias de genêro incluindo mulheres ci
 
 ## Como participar?
 
+Confira como você pode participar das atividades das RLadies:
+
 <img src="rladies_help_portuguese.png">
 
-## [Código de conduta](https://guide.rladies.org/about/coc/#portuguese)
+## Código de conduta
+
+Acesse o nosso código de conduta na página das [RLadies Global](https://guide.rladies.org/about/coc/#portuguese)
 
 <img src="rladies_codigo_conduta.png">
 
