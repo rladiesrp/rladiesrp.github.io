@@ -38,7 +38,7 @@ Acesse o nosso código de conduta na página das [RLadies Global](https://guide.
 
 <img src="logo_github.png" width="50" height="50" /> [@rladiesrp](https://github.com/rladiesrp)
 
-<img src="logo_facebook2.png" width="50" height="50" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
+<img src="logo_facebook2.png" width="40" height="40" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
 
 <img src="logo_instagram.png" width="40" height="40" /> [@rladiesrp](https://www.instagram.com/rladiesrp/)
 
