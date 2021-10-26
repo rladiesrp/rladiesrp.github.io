@@ -28,7 +28,7 @@ Confira como você pode participar das atividades das RLadies:
 
 ## Código de conduta
 
-As RLadies tem como objetivo proporcionar uma experiência livre de assédio para todos. O nosso código de conduta aplica-se a todos os espaços RLadies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline. Acesse o nosso código de conduta na página das [RLadies Global](https://guide.rladies.org/about/coc/#portuguese)
+As RLadies tem como objetivo proporcionar uma experiência livre de assédio para todos. O nosso código de conduta aplica-se a todos os espaços RLadies, incluindo: meetups, Twitter, Slack, Telegram, listas de discussão, tanto online como offline. Acesse o nosso código de conduta na página das [RLadies Global](https://guide.rladies.org/about/coc/#portuguese)
 
 <img src="rladies_conduta_portugues.png">
 
