@@ -35,15 +35,9 @@ As RLadies tem como objetivo proporcionar uma experiência livre de assédio par
 ## Conheça as nossas redes sociais:
 
 <img src="logo_meetup.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
-
 <img src="logo_youtube.png" width="40" height="30" /> [YouTube RLadies Ribeirão Preto](https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA/about)
-
 <img src="logo_github.png" width="40" height="40" /> [@rladiesrp](https://github.com/rladiesrp)
-
 <img src="logo_facebook.png" width="40" height="40" /> [@rladiesrp](https://www.facebook.com/rladiesrp)
-
 <img src="logo_instagram.png" width="40" height="40" /> [@rladiesrp](https://www.instagram.com/rladiesrp/)
-
 <img src="logo_twitter.png" width="40" height="30" /> [@rladiesrp](https://twitter.com/rladiesrp)
-
 <img src="logo_email.png" width="40" height="40" /> [ribeirao-preto@rladies.org](mailto:ribeirao-preto@rladies.org)
