@@ -2,11 +2,11 @@
 
 Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização sem fins lucrativos que atua em diversos países. Nós nos encontramos [virtualmente] para aprender sobre a linguagem R.
 
-<img src="rladies_dashboard4.png">
+<img src="rladies_meetup_pro.png">
 
 ## Quem somos?
 
-<img src="rladiesrp_quem_somos.png"> 
+<img src="quem_somos.png"> 
 
 ## Missão
 
@@ -45,5 +45,7 @@ As RLadies tem como objetivo proporcionar uma experiência livre de assédio par
 <img src="logo_instagram.png" width="40" height="40" /> [@rladiesrp](https://www.instagram.com/rladiesrp/)
 
 <img src="logo_twitter.png" width="40" height="30" /> [@rladiesrp](https://twitter.com/rladiesrp)
+
+<img src="logo_website.png" width="40" height="40" /> [rladiesrp.github.io](https://rladiesrp.github.io)
 
 <img src="logo_email.png" width="40" height="40" /> [ribeirao-preto@rladies.org](mailto:ribeirao-preto@rladies.org)
