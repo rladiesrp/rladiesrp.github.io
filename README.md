@@ -1,12 +1,12 @@
 ## RLadies Ribeirão Preto
 
-Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização sem fins lucrativos que atua em diversos países. Nós nos encontramos [virtualmente] para aprender sobre a linguagem R.
+Somos um capítulo das [RLadies Global](https://rladies.org/), uma organização sem fins lucrativos que atua em diversos países.
 
 <img src="rladies_meetup_pro.png">
 
 ## Quem somos?
 
-<img src="quem_somos.png"> 
+<img src="coorganizadoras_rladiesrp_2.png"> 
 
 ## Missão
 
